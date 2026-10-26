@@ -15,3 +15,8 @@ My first repository for CS101
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
